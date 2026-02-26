@@ -1,0 +1,9 @@
+{
+  "ConfigRuleName": "org-restricted-ssh",
+  "Description": "Security groups must not allow SSH from 0.0.0.0/0",
+  "Scope": {},
+  "Source": {
+    
+  },
+  "MaximumExecutionFrequency": "TwentyFour_Hours"
+}
